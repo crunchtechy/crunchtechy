@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm CrunchTechy
 
-<!--
-**crunchtechy/crunchtechy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I’m the creator of CrunchTechy, a platform focused on simplifying technology for everyday users.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I do
+
+- 🤖 AI tools guides (simple explanations)
+- 📱 Apple, Android, Google updates
+- 🌐 Tech news breakdowns
+- 🧠 Beginner-friendly tech tutorials
+- ⚡ App reviews & productivity tips
+
+---
+
+## 🎯 My goal
+
+To make technology easy to understand for everyone — no technical background needed.
+
+---
+
+## 🌍 Visit my website
+
+👉 https://crunchtechy.com
+
+---
+
+## 📌 Currently working on
+
+- Building CrunchTechy content library
+- Creating apps for everyone daily use  
+- Writing tech guides for beginners  
+- Exploring modern digital tools  
+
+---
+
+## 📫 Connect
+
+Always open to feedback and collaboration!
